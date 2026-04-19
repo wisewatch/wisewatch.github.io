@@ -1,4 +1,4 @@
-const TMDB_API_KEY = '8c247ea0b4b56ed2ff7d41c9a833aa77';
+const TMDB_API_KEY = '1e6c49b4cc57e66a33167920ed6ce4cb';
 const TMDB_BASE_URL = 'https://api.themoviedb.org/3';
 const USER_ID = 'user1';
 
