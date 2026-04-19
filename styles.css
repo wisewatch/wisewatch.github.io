@@ -141,7 +141,7 @@ h1 {
 }
 
 .choice-btn {
-    visibility: collapse;
+    visibility: visible;
     padding: 1rem 2rem;
     font-size: 1.1rem;
     border: none;
